@@ -1,0 +1,5 @@
+{
+  "name": "occlusionTable",
+  "scripts": ["occlusionTable.js"],
+  "styles": ["occlusionTable.css"]
+}
